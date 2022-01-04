@@ -38,7 +38,7 @@ MISAL DEPANNYA PAKE TANDA PETIK DI ATAS 1 (`) BERARTI DI AKHIRNYA HARUS DI TUTUP
 limitawal = "50" //LIMIT AWAL
 namabot = "Its Me Xinzz" //NAMA BOT
 namaowner = "OWNER Xinzz🎖️" //NAMA OWNER
-nomerowner = '6281994112523' //NOMER OWNER
+nomerowner ='6289604123422' //NOMER OWNER
 gamewaktu = "300" //3 = 3 detik || 30 = 30 detik .Dst
 numbernye = "0" //GAUSAH DI UBAH JUGA GPP
 gcounttprem = "35" //LIMIT GAME AWAL UNTUK USER PREMIUM
@@ -54,7 +54,7 @@ const lolkey = 'isi' //MASUKAN APIKEYMU DI DISINI, JANGAN LUPA BUKA DAN TUTUP PA
 gopay = 'Kode Qr Di Profile Bot'
 dana = '081297365205'
 ovo = '081994112523'
-shopeepay = '081994112523'
+shopeepay = '089604123422'
 paypal = '-'
 saweria = '-'
 ewalet = '-'
