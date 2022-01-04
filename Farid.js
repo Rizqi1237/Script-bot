@@ -37,7 +37,7 @@ MISAL DEPANNYA PAKE TANDA PETIK DI ATAS 1 (`) BERARTI DI AKHIRNYA HARUS DI TUTUP
 ────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 limitawal = "50" //LIMIT AWAL
 namabot = "Its Me Xinzz" //NAMA BOT
-namaowner = "OWNER Xinzz🎖️" //NAMA OWNER
+namaowner = "OWNER Rizz🎖️" //NAMA OWNER
 nomerowner ='6289604123422' //NOMER OWNER
 gamewaktu = "300" //3 = 3 detik || 30 = 30 detik .Dst
 numbernye = "0" //GAUSAH DI UBAH JUGA GPP
